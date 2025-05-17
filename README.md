@@ -1,4 +1,7 @@
-## Hi there 👋
+## 안녕하세요, 클라우드 아키텍트를 꿈꾸는 유가람입니다 👋
+
+🌱 AWS로 안정적인 인프라를 설계하는 데에 관심이 많습니다.
+
 
 <!--
 **garammm/garammm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
